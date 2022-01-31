@@ -1,4 +1,4 @@
-#version 3.0
+#version 4.0
 from flask import Flask
 app = Flask(__name__)
 
